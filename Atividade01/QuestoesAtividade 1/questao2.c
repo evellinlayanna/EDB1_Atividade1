@@ -7,8 +7,7 @@
 #include <stdio.h>
 
 // Funcao que troca numeros inteiros
-// Defino duas variaveis inteiras (a e b) e uma variavel auxiliar (aux)
-tambem
+// Defino duas variaveis inteiras (a e b) e uma variavel auxiliar (aux) tambem
 // inteira A variavel aux recebe o valor de a e b recebe o valor de aux As
 // variaveis com * indicam que sao ponteiros, os ponteiros sao variaveis que
 // armazenam enderecos de memoria Nessa funcao, a e b sao ponteiros, ou seja,
