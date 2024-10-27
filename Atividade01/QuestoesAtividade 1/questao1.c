@@ -2,9 +2,7 @@
 // Questao 1: Funcoes e Passagem por Valor
 // Escreva uma funcao em C que receba dois numeros inteiros como parametros
 // (passagem por valor) e troque seus valores dentro da funcao. Implemente um
-// programa que chame essa funcao e exiba os valores antes e depois da
-tentativa
-// de troca
+// programa que chame essa funcao e exiba os valores antes e depois da tentativa de troca
 
 #include <stdio.h>
 
